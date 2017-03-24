@@ -1,6 +1,6 @@
 //https://youtu.be/JSceec-wEyw
 
-// Time Complexity (O(nlong))
+// Time Complexity (O(nlogn))
 // Space Complexity (O(n))
 
 function mergeSort(array) {
